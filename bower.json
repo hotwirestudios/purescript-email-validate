@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cdepillabout/purescript-email-validate"
+    "url": "git://github.com/hotwirestudios/purescript-email-validate"
   },
   "license": "BSD3"
 }

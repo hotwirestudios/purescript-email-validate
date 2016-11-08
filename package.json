@@ -1,6 +1,6 @@
 {
   "name": "purescript-email-validate",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "PureScript library to parse an email address.",
   "directories": {
     "doc": "docs",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdepillabout/purescript-email-validate.git"
+    "url": "git+https://github.com/hotwirestudios/purescript-email-validate.git"
   },
   "author": "Dennis Gosnell <cdep.illabout@gmail.com>",
   "license": "BSD-3-Clause",
