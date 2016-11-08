@@ -16,9 +16,6 @@
     "purescript-string-parsers": "^1.0.1",
     "purescript-transformers": "^1.0.0"
   },
-  "devDependencies": {
-    "purescript-super-spec": "^0.9.3"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/cdepillabout/purescript-email-validate"
